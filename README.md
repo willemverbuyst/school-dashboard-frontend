@@ -69,8 +69,8 @@ For seven weeks the teachers at Codaisseur have been teaching us a variety of [s
 - As a student I want to sign up/login in order to use the dashboard and see my grades/progress.
 - When logged in I will see an overview (sidebar) of the classes I am attending.
 - On the main page I will see a chart with my average grade for each subject.
-  -By clicking on a subject in the sidebar I will see an overview of all my scores (per test) for that subject.
-- On this details page there is a button to do a test for that subject.
+- By clicking on a subject in the sidebar I will see an overview of all my scores (per test) for that subject.
+- On this details page there is a button to do a test for that subject. The student will get 3 random questions per test for that subject.
 - I will see a 'finish test' button, and get a display of a message with the result.
 
 ### As a teacher ...
@@ -84,9 +84,9 @@ For seven weeks the teachers at Codaisseur have been teaching us a variety of [s
 
 ## <a name="models-wireframe-projectboard"></a>Data models / wireframes / project board
 
-[Data models](https://app.lucidchart.com/invitations/accept/d09a0ec5-92f6-4ac7-b203-e96f708609db)
+[Data models](https://app.lucidchart.com/documents/view/99986283-272f-4834-bad9-422051fddfc5/0_0)
 
-[Wireframes](https://drive.google.com/file/d/1CMpn7W91WxH8KU1kURMbLTiAyhFeMNgq/view?usp=sharing)
+[Wireframes Homepage](https://drive.google.com/file/d/1CMpn7W91WxH8KU1kURMbLTiAyhFeMNgq/view?usp=sharing)
 
 [Project board](https://github.com/willemverbuyst/school-dashboard-frontend/projects/1)
 
