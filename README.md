@@ -86,7 +86,7 @@ For seven weeks the teachers at Codaisseur have been teaching us a variety of [s
 
 [Data models](https://app.lucidchart.com/documents/view/99986283-272f-4834-bad9-422051fddfc5/0_0)
 
-[Wireframes Homepage](https://drive.google.com/file/d/1CMpn7W91WxH8KU1kURMbLTiAyhFeMNgq/view?usp=sharing)
+[Wireframes](https://app.diagrams.net/?rt=1&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Wireframes%20dashboard%20project#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1CMpn7W91WxH8KU1kURMbLTiAyhFeMNgq%26export%3Ddownload)
 
 [Project board](https://github.com/willemverbuyst/school-dashboard-frontend/projects/1)
 
